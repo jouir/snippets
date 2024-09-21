@@ -2,7 +2,6 @@
 # Download Talking Postgres podcast
 # https://talkingpostgres.com/
 
-import json
 import os
 import feedparser
 import requests
